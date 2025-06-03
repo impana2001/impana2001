@@ -5,7 +5,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-impana--h-blue?logo=linkedin)](https://www.linkedin.com/in/impana-h-006337243)
 📫 Email: impanah2001@gmail.com  
-📍 Hassan, Karnataka | 📱 +91 91417 55053  
+📍 Bengaluru, Karnataka | 
 
 ---
 
@@ -17,7 +17,7 @@ I'm a highly motivated Data Automation Analyst with a strong foundation in machi
 
 ## 🛠️ Technical Skills
 
-- **Languages:** Python, C++, SQL, HTML, CSS  
+- **Languages:** Python, SQL, HTML, CSS  
 - **ML/AI:** Scikit-learn, TensorFlow, Pandas, Numpy, Seaborn  
 - **Concepts:** Regression, Classification, Model Evaluation, NLP, Deep Learning  
 - **Tools:** Visual Studio, Jupyter, Matplotlib  
